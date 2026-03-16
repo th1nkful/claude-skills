@@ -1,3 +1,8 @@
+---
+name: codex-review
+description: Antagonistic code review using codex review — runs codex to review changes, then triages the output
+---
+
 # codex-review
 
 Antagonistic code review using `codex review`. Runs codex to review changes, then triages the output.
