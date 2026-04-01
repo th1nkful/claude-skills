@@ -8,6 +8,7 @@ Custom slash commands for Claude Code.
 - [`/assess`](skills/assess/SKILL.md) — Code review using focused lenses (simplicity, correctness, patterns, tests)
 - [`/resolve-pr-feedback`](skills/resolve-pr-feedback/SKILL.md) — Triage and fix unresolved PR review comments
 - [`/codex-review`](skills/codex-review/SKILL.md) — Antagonistic code review via `codex review`, with triage of findings
+- [`/fix-rebase-conflicts`](skills/fix-rebase-conflicts/SKILL.md) — Safely resolve git rebase conflicts with stacked diff awareness
 
 ## Installation
 
