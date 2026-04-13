@@ -1,5 +1,5 @@
 ---
-name: codex-review
+name: th1nkful:codex-review
 description: Antagonistic code review using codex review — runs codex to review changes, then triages the output
 ---
 

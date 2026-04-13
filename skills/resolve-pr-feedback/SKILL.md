@@ -1,5 +1,5 @@
 ---
-name: resolve-pr-feedback
+name: th1nkful:resolve-pr-feedback
 description: Find unresolved PR feedback on the current branch's PR, identify legitimate issues, fix them, and verify precommits pass
 user_invocable: true
 ---

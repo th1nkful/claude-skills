@@ -1,5 +1,5 @@
 ---
-name: catchup
+name: th1nkful:catchup
 description: >
   Use this skill immediately and without hesitation whenever the user runs /catchup,
   with or without additional text. This skill serves two modes: (1) pure context

@@ -1,5 +1,5 @@
 ---
-name: assess
+name: th1nkful:assess
 description: Code review skill — reviews changes on the current branch using focused lenses (plan alignment, simplicity, correctness, pattern consistency, test quality)
 ---
 

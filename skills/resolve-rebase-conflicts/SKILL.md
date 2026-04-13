@@ -1,5 +1,5 @@
 ---
-name: fix-rebase-conflicts
+name: th1nkful:resolve-rebase-conflicts
 description: Safely resolve git rebase conflicts — reads both sides, preserves real work, applies stacked diff awareness
 user_invocable: true
 ---
