@@ -8,6 +8,8 @@ Custom slash commands for Claude Code.
 - [`/th1nkful:assess`](skills/assess/SKILL.md) — Code review using focused lenses (simplicity, correctness, patterns, tests)
 - [`/th1nkful:resolve-pr-feedback`](skills/resolve-pr-feedback/SKILL.md) — Triage and fix unresolved PR review comments
 - [`/th1nkful:codex-review`](skills/codex-review/SKILL.md) — Antagonistic code review via `codex review`, with triage of findings
+- [`/th1nkful:opencode-code-review`](skills/opencode-code-review/SKILL.md) — Antagonistic code review via `opencode` (OpenAI by default), with triage of findings
+- [`/th1nkful:opencode-plan-review`](skills/opencode-plan-review/SKILL.md) — Antagonistic plan review via `opencode` (OpenAI by default), with triage of findings
 - [`/th1nkful:resolve-rebase-conflicts`](skills/resolve-rebase-conflicts/SKILL.md) — Safely resolve git rebase conflicts with stacked diff awareness
 
 ## Installation
