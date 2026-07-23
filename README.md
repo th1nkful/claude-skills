@@ -12,6 +12,7 @@ Custom slash commands for Claude Code.
 - [`/th1nkful:opencode-plan-review`](skills/opencode-plan-review/SKILL.md) — Antagonistic plan review via `opencode` (OpenAI by default), with triage of findings
 - [`/th1nkful:resolve-rebase-conflicts`](skills/resolve-rebase-conflicts/SKILL.md) — Safely resolve git rebase conflicts with stacked diff awareness
 - [`/th1nkful:grill-me`](skills/grill-me/SKILL.md) — Relentless interview on a plan/design, resolving each branch of the decision tree
+- [`/th1nkful:simplify`](skills/simplify/SKILL.md) — Parallel reuse/quality/efficiency review of changes, then fix the findings
 - [`/th1nkful:explain-diff-html`](skills/explain-diff-html/SKILL.md) — Rich, interactive HTML explanation of a code change, diff, branch, or PR ([source](https://gist.github.com/geoffreylitt/a29df1b5f9865506e8952488eac3d524))
 
 ## Installation
